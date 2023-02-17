@@ -1,6 +1,6 @@
 # Running Log
 
-I don't have a smartwatch to detect how many kilometres I have completed in a single run. Instead, I'm using stopwatch on my watch. 
+As the name of repository suggested, this is my running log that I have been manually tracked for the past few years. The objective of this project is for me to monitor how many kilometres that I have run thus far. 
 
 ## License
 
